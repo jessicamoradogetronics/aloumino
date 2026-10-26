@@ -9,15 +9,12 @@ window.ALOUMINO_CONFIG = {
   email: "naiarapc4@gmail.com",
 
   // Redes sociales (deja "" para ocultar un enlace).
-  instagram: "https://www.instagram.com/aloumino",
+  instagram: "https://www.instagram.com/aloumino_de_cera/",
   tiktok: "https://www.tiktok.com/@aloumino",
 
-  // Opcional: número de WhatsApp en formato internacional sin "+" ni espacios (ej. "34600111222").
   whatsapp: "",
 
-  // Opcional: endpoint de Formspree (https://formspree.io) u otro servicio compatible,
-  // p. ej. "https://formspree.io/f/abcdwxyz". Si se deja vacío, los formularios
-  // abrirán el programa de correo de la persona con el mensaje ya redactado.
+
   formEndpoint: "",
 
   // Clave pública de Web3Forms (https://web3forms.com). Si se rellena, los formularios
